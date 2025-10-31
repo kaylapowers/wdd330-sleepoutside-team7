@@ -1,0 +1,11 @@
+Team 7 trello board
+https://trello.com/b/dJGHCtqr/sleep-outside-team-7?filter=dateLastActivity:week
+ 
+Team 7 github repository
+https://github.com/kaylapowers/wdd330-sleepoutside-team7
+
+the link to our production site
+
+https://wdd330-sleepoutside-team725.netlify.app/
+
+Kayla Powers
